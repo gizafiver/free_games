@@ -1,0 +1,8 @@
+{
+ "server": "127.0.0.1",
+ "port": 4444,
+ "modules": ["dirlister", "environment"],
+ "connection_timeout": 30,
+ "reconnect_interval": 60,
+ "encryption_key": "your_encryption_key_here"
+}
